@@ -37,4 +37,4 @@ Follow these instructions to get a copy of the project up and running on your lo
 - Android Studio - The official IDE for Android app development.
 
 
-Feel free to contribute to the project by opening issues or pull requests. If you have any questions or suggestions, please contact [your@email.com]. Happy coding!
+Feel free to contribute to the project by opening issues or pull requests. If you have any questions or suggestions, please contact [arsharenjith2710@gmail.com]. Happy coding!
